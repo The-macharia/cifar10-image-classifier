@@ -6,4 +6,4 @@
 # The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. 
 # There are 50000 training images and 10000 test images. 
 # To run the test dataset, the program will prompt you to enter an image path (file location).
-# The labels to text for are limited to: aeroplane, birds,automobile, cat, deer, dog, frog, horse, ship, truck
+# The labels to test for are limited to: aeroplane, birds,automobile, cat, deer, dog, frog, horse, ship, truck
